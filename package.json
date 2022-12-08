@@ -1,0 +1,22 @@
+{
+  "name": "dot.css",
+  "version": "1.0.0",
+  "description": "CSS Framework for web developers with web standard and best practices in mind",
+  "main": "src/dot.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuglielmoPepe/dot"
+  },
+  "keywords": [
+    "css",
+    "web standard",
+    "best practices"
+  ],
+  "author": "Guglielmo Pepe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuglielmoPepe/dot/issues"
+  },
+  "homepage": "https://guglielmopepe.github.io/dot/"
+}
+
